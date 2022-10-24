@@ -19,13 +19,5 @@ Thanks ;)
 
 **- Text etc. can be changed and switched on/off**
 
+For Support or Custom Scripts:
 [DISCORD](https://discord.gg/b3P53aFV7C)
-
-
-
-|-------------------------------------|----------------------------|
-| Code is accessible       | Yes                 |
-| Subscription-based      | No                 |
-| Lines (approximately)  | over 200  |
-| Requirements                | ESX      |
-| Support                           | Yes                 |
